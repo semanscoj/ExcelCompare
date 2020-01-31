@@ -1,0 +1,14 @@
+input/*
+data/filters/*
+backup/*
+*.onetoc2
+*.xlsx
+*.pyc
+data/config/*
+data/logs/*
+data/cache/*
+dist/
+build/
+*.spec
+ExcelCompare/*
+ExcelCompareCompressed.exe
